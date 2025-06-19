@@ -1,6 +1,6 @@
 # Automated-Raaga-Recognition-In-Carnatic-Music-Using-CNN-BiLSTM-Model-With-Attention-Mechanism
 
-##Team
+## Team
 Thanks to these wonderful contributors :
 
 K V Vamshidhar Reddy
